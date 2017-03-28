@@ -8,8 +8,9 @@ Some things I have slightly changed from Una's original one.
 
 # Goals (2017)
 1. Use more JavaScript instead of jQuery
-2. Learn more of PHP
-3. Learn more about React / Vue / Angular and create a app with one of them.
+2. Learn about ES5, ES6 (or what ever it is called now..)
+3. Learn more of PHP
+4. Learn more about React / Vue / Angular and create a app with one of them.
 
 
 # April 2017
