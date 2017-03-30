@@ -16,7 +16,7 @@ Some things I have slightly changed from Una's original one.
 # April 2017
 **This months Goals:**
 - [ ] Finish my personal website
-- [ ] Look at expanding my WordPress base theme and raise them as issues.
+- [x] Look at expanding my WordPress base theme and raise them as issues.
 - [ ] Give 'Sass for dummies' talk at WP Bournemouth.
 - [ ] Update CV
 
