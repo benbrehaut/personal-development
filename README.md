@@ -17,7 +17,7 @@ Some things I have slightly changed from Una's original one.
 **This months Goals:**
 - [ ] Finish my personal website
 - [x] Look at expanding my WordPress base theme and raise them as issues.
-- [ ] Give 'Sass for dummies' talk at WP Bournemouth.
+- [x] Give 'Sass for dummies' talk at WP Bournemouth.
 - [ ] Update CV
 
 # Backlog: Side Projects / To do
