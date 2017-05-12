@@ -13,13 +13,14 @@ Instead of weekly sprints, I have decided to do monthly, due to personal commitm
 4. Learn more about React / Vue / Angular and create a app with one of them.
 
 # May 2017
+**This months Goals:**
 - [ ] Update CV (Rolled on from April :disappointed:)
 - [ ] Finish Wes Bos 30 day JavaScript challenge
 - [ ] Finished FFconf slides for work
 - [ ] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers.
 
 # Last Month (April 2017)
-**This months Goals:**
+**Last months Goals:**
 - [x] Finish my personal website
 - [x] Look at expanding my WordPress base theme and raise them as issues.
 - [x] Give 'Sass for dummies' talk at WP Bournemouth.
