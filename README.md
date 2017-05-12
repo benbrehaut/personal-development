@@ -14,9 +14,9 @@ Instead of weekly sprints, I have decided to do monthly, due to personal commitm
 
 # May 2017
 **This months Goals:**
-- [ ] Update CV (Rolled on from April :disappointed:)
+- [ ] Update CV *(Rolled on from April :disappointed:)*
 - [ ] Finish Wes Bos 30 day JavaScript challenge
-- [ ] Finished FFconf slides for work
+- [ ] Finish FFconf slides for work
 - [ ] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers.
 
 # Last Month (April 2017)
