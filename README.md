@@ -12,15 +12,18 @@ Instead of weekly sprints, I have decided to do monthly, due to personal commitm
 3. Learn more of PHP
 4. Learn more about React / Vue / Angular and create a app with one of them.
 
+# June 2017
+- [ ] Finish Wes Bos 30 day JavaScript challenge (rolled over)
+- [ ] Finish FFconf slides for work (rolled over)
+- [ ] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers. (rolled over)
+
 # May 2017
-**This months Goals:**
-- [x] Update CV *(Rolled on from April :disappointed:)*
+- [x] Update CV
 - [ ] Finish Wes Bos 30 day JavaScript challenge
 - [ ] Finish FFconf slides for work
 - [ ] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers.
 
-# Last Month (April 2017)
-**Last months Goals:**
+# April 2017
 - [x] Finish my personal website
 - [x] Look at expanding my WordPress base theme and raise them as issues.
 - [x] Give 'Sass for dummies' talk at WP Bournemouth.
@@ -32,7 +35,6 @@ Instead of weekly sprints, I have decided to do monthly, due to personal commitm
 - [ ] Turn WordPress base theme into Yeoman generator.
 - [ ] Rebuild my university Final Major Project. 
 - [ ] Read through [Google's Web Fundamentals site](https://developers.google.com/web/fundamentals/)
-- [ ] Look at removing Yoast plugin from work WordPress development.
 
 # Backlog: Things to play about with.
 - [ ] React
