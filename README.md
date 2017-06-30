@@ -15,7 +15,7 @@ Instead of weekly sprints, I have decided to do monthly, due to personal commitm
 # June 2017
 - [ ] Finish Wes Bos 30 day JavaScript challenge (rolled over)
 - [x] Finish FFconf slides for work (rolled over)
-- [ ] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers. (rolled over)
+- [x] Finish Blog post about post launch of my site FFconf and maybe about my expierence talking at a meetup and my first talk to other developers. (rolled over)
 
 # May 2017
 - [x] Update CV
